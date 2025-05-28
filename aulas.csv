@@ -1,0 +1,6 @@
+titulo,link,comentarios,concluido
+Introdução ao HTML,https://exemplo.com/html-intro,"Muito bom!",true
+Seletores CSS,https://exemplo.com/css-seletores,"Precisa de mais exemplos",false
+Funções em JS,https://exemplo.com/js-funcoes,"Excelente explicação!",true
+Componentes React,https://exemplo.com/react-componentes,"Um pouco confuso",false
+API com Node.js,https://exemplo.com/node-api,"Top!",true

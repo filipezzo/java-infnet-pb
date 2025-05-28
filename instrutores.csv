@@ -1,0 +1,4 @@
+id,nome,email,telefone,senha,tipo,status
+1,Ana Martins,ana.martins@email.com,11988887777,senha123,INSTRUTOR,true
+2,Carlos Souza,carlos.souza@email.com,11977776666,senha456,INSTRUTOR,false
+3,Beatriz Lima,beatriz.lima@email.com,11999990000,senha789,INSTRUTOR,true

@@ -1,0 +1,6 @@
+id,nome,email,telefone,senha,tipo,nivelAcesso
+1,Daniela Rocha,daniela.rocha@email.com,11999990004,pass456,ADMINISTRADOR,SUPERADMIN
+2,Karina Leal,karina.leal@email.com,11999990011,senhaLegal,ADMINISTRADOR,MODERADOR
+3,Rafael Castro,rafael.castro@email.com,11999990016,rafa1234,ADMINISTRADOR,SUPERADMIN
+4,Larissa Nunes,larissa.nunes@email.com,11999990017,larissa2024,ADMINISTRADOR,MODERADOR
+5,Marcos Azevedo,marcos.azevedo@email.com,11999990018,adminSenha,ADMINISTRADOR,SUPERADMIN
