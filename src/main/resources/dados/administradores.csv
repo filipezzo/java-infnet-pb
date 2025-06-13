@@ -1,0 +1,4 @@
+nome;email;telefone;senha;nivelAcesso
+Daniela Rocha;daniela.rocha@email.com;11999990004;pass456;SUPERADMIN
+Karina Leal;karina.leal@email.com;11999990011;senhaLegal;MODERADOR
+Rafael Castro;rafael.castro@email.com;11999990016;rafa1234;SUPERADMIN

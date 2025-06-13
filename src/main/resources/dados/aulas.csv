@@ -1,0 +1,4 @@
+titulo;link;comentarios;concluido;cursoId
+Introdução ao HTML;"https://exemplo.com/html-intro";"Muito bom!";true;c6b3e1a0-9a3d-4c5f-8f1e-3e4d5a6b7c8d
+Seletores CSS;"https://exemplo.com/css-seletores";"Precisa de mais exemplos";false;d8a2c7b3-0c4e-4b6f-9a1d-2b3c4d5e6f7a
+Funções em JS;"https://exemplo.com/js-funcoes";"Excelente explicação!";true;e9b1d8c4-1d5f-4a7e-8b2e-1c2d3e4f5a6b

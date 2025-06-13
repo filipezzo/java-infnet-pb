@@ -1,0 +1,4 @@
+titulo;descricao;cargaHoraria;nivel;status;instrutor_id;id
+HTML;Aprenda os fundamentos da estrutura HTML.;10.0;INICIANTE;true;1;c6b3e1a0-9a3d-4c5f-8f1e-3e4d5a6b7c8d
+CSS;Estilização de páginas com CSS moderno.;12.5;INICIANTE;true;1;d8a2c7b3-0c4e-4b6f-9a1d-2b3c4d5e6f7a
+JavaScript do Zero;Lógica e interatividade com JS.;20.0;INTERMEDIARIO;true;2;e9b1d8c4-1d5f-4a7e-8b2e-1c2d3e4f5a6b

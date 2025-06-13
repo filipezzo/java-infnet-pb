@@ -1,0 +1,4 @@
+nome;email;telefone;senha;status;administrador_id
+Ana Martins;ana.martins@email.com;11988887777;senha123;true;1
+Carlos Souza;carlos.souza@email.com;11977776666;senha456;false;2
+Beatriz Lima;beatriz.lima@email.com;11999990000;senha789;true;3
